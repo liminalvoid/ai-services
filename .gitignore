@@ -169,3 +169,8 @@ poetry.toml
 
 # LSP config files
 pyrightconfig.json
+
+# SQLite databases of the labs
+*.db
+*.db-wal
+*.db-shm
